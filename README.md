@@ -1,24 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+# 💫 About Me:
+## 🚀 Do Huy Hoang | Mobile Engineer
+- 🎓 **Bachelor's Degree, Software Engineering** — Industrial University of HCMC  
+- 💻 Mobile-focused engineer passionate about **scalable, clean architecture, reliable, and secure systems**
+- ☕ Strong expertise in **Flutter, Swift, SwiftUI, Kotlin, Jetpack-Compose**
+- 🗄️ Experience with **SQL / NoSQL**, **Kafka**, **Redis**
+- 📊 Hands-on with **Elasticsearch, Logstash, Kibana (ELK Stack)** for logging & analytics
+- ☁️ Cloud-oriented development with **AWS** (deployment, scalability, monitoring)
+- 🎨 Frontend experience with **React & Next.js** for full-stack collaboration
+- 🛠️ Proficient in **Git, Docker, Postman**
 
-- 📹 I'm also learning Flutter
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dohuyhoang2001/) for work!
+### 📩 Open To
+- Mobile Engineer
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ohuyhoang.110779/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dohuyhoang.se.dev@gmail.com) 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hoangdh2001&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hoangdh2001&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-    I'm best reached via <a href="mailto:dohuyhoang.se.dev@gmail.com"/>email</a>. I'm always open to interesting conversations and collaboration.
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=hoangdh2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Languages & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,js,ts,flutter,react,spring,nodejs,docker" />
-  </a>
-</p>
-
-### Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&langs_count=6&hide=Shell,Roff,BatchFile,Dockerfile,CMake,C,HTML,Css,C%2B%2B,C%23,Pug&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![hoangdh2001 GitHub Streak](https://streak-stats.demolab.com?user=hoangdh2001&theme=dark)](https://git.io/streak-stats)
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
