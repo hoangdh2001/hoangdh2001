@@ -1,27 +1,75 @@
-# Hi there 👋
-# 💫 About Me:
-## 🚀 Do Huy Hoang | Mobile Engineer
-- 🎓 **Bachelor's Degree, Software Engineering** — Industrial University of HCMC  
-- 💻 Mobile-focused engineer passionate about **scalable, clean architecture, reliable, and secure systems**
-- ☕ Strong expertise in **Flutter, Swift, SwiftUI, Kotlin, Jetpack-Compose**
-- 🗄️ Experience with **SQL / NoSQL**, **Kafka**, **Redis**
-- 📊 Hands-on with **Elasticsearch, Logstash, Kibana (ELK Stack)** for logging & analytics
-- ☁️ Cloud-oriented development with **AWS** (deployment, scalability, monitoring)
-- 🎨 Frontend experience with **React & Next.js** for full-stack collaboration
-- 🛠️ Proficient in **Git, Docker, Postman**
-
-### 📩 Open To
-- Mobile Engineer
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ohuyhoang.110779/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dohuyhoang.se.dev@gmail.com) 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hoangdh2001&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hoangdh2001&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi, I'm Do Huy Hoang
+💻 **Mobile Engineer | Flutter • iOS • Android**  
+🚀 Passionate about clean architecture, scalable systems & performance  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hoangdh2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me:
+- Flutter Engineer with 3+ years of experience building real-world mobile applications, focused on maintainable, scalable, and production-ready solutions
+- 📱 Strong expertise in Flutter & Dart, applying Clean Architecture, BLoC, and modern state management (GetX, BLoc, Provider)
+- 🍎🤖 Hands-on experience with native iOS & Android — Swift, Objective-C, Kotlin, Java — for platform channels and system-level integrations
+- 🔌 Experienced in mobile integrations: HealthKit, Health Connect, Google Fit, wearable devices, background sync, and secure data handling
+- 🧪 Solid debugging, testing, and performance optimization skills for production Flutter apps
+- 🚀 CI/CD & App Deployment: Git, GitLab CI/CD, App Store & Google Play release pipelines
+- 🤝 Comfortable working in Agile/Scrum teams, collaborating closely with designers and backend engineers
+- 🌱 Currently exploring **AI on mobile & low-level optimization**
+
+---
+
+### 📩 Open To
+- Mobile Engineer, Flutter Developer, iOS Developer
+
+---
+
+### 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat)
+
+---
+
+### 🧠 Native & Low-level
+- Flutter FFI
+- C / C++
+- Objective-C
+- JNI
+
+---
+
+### 🖥 Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+
+---
+
+### 🗄 Database & Streaming
+- PostgreSQL / MySQL
+- MongoDB
+- Redis
+- Kafka
+- Elasticsearch (ELK Stack)
+
+---
+
+### DevOps
+- Docker / Docker Compose
+- CI/CD
+- Apple Store & Google Play deployment
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/hoangdh2001
+- 📧 Email: dohuyhoang.se.dev@gmail.com
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
