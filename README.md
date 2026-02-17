@@ -1,75 +1,71 @@
 # 👋 Hi, I'm Do Huy Hoang
-💻 **Mobile Engineer | Flutter • iOS • Android**  
-🚀 Passionate about clean architecture, scalable systems & performance  
+💻 **iOS Engineer | Swift • SwiftUI • UIKit**  
+🚀 Focused on clean architecture, scalable systems, and high-quality iOS products  
 
 ---
 
-### 💫 About Me:
-- Flutter Engineer with 3+ years of experience building real-world mobile applications, focused on maintainable, scalable, and production-ready solutions
-- 📱 Strong expertise in Flutter & Dart, applying Clean Architecture, BLoC, and modern state management (GetX, BLoc, Provider)
-- 🍎🤖 Hands-on experience with native iOS & Android — Swift, Objective-C, Kotlin, Java — for platform channels and system-level integrations
-- 🔌 Experienced in mobile integrations: HealthKit, Health Connect, Google Fit, wearable devices, background sync, and secure data handling
-- 🧪 Solid debugging, testing, and performance optimization skills for production Flutter apps
-- 🚀 CI/CD & App Deployment: Git, GitLab CI/CD, App Store & Google Play release pipelines
-- 🤝 Comfortable working in Agile/Scrum teams, collaborating closely with designers and backend engineers
-- 🌱 Currently exploring **AI on mobile & low-level optimization**
+## 💫 About Me
+- iOS Engineer with **3+ years of experience** building and delivering production-ready iOS applications  
+- Strong hands-on experience with **Swift, SwiftUI, and UIKit**, working on hybrid codebases in real-world products  
+- Solid understanding of **iOS app lifecycle, state management, navigation**, and performance optimization  
+- Hands-on experience integrating **REST APIs, WebSocket streams**, and secure data flows  
+- Applied **MVVM architecture** and clean separation of concerns to build scalable iOS codebases  
+- Wrote **unit tests with XCTest** and actively improved app stability and maintainability  
+- Experience with **CI/CD pipelines** and publishing apps to the **App Store**  
+- Comfortable collaborating in **Agile/Scrum teams** with designers and backend engineers  
+- Also experienced with **Flutter** for cross-platform projects when required  
 
 ---
 
-### 📩 Open To
-- Mobile Engineer, Flutter Developer, iOS Developer
+## 📩 Open To
+- iOS Engineer  
+- Mobile Engineer
+- Flutter Engineer
 
 ---
 
-### 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+## 💻 Core iOS Stack
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat)
 
 ---
 
-### 🧠 Native & Low-level
-- Flutter FFI
-- C / C++
+## 🧠 iOS & System-level
+- SwiftUI & UIKit (hybrid architecture)
+- URLSession, WebSocket
+- XCTest, Instruments
+- iOS app lifecycle & performance optimization
+
+---
+
+## 🔌 Native & Cross-platform
+- Flutter (platform channels)
 - Objective-C
-- JNI
+- C / C++
+- Flutter FFI
 
 ---
 
-### 🖥 Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+## 🖥 Backend & Infrastructure (Working Knowledge)
+- Springboot, NestJs
+- RESTful APIs
+- PostgreSQL, MongoDB, Redis
+- Microservice, Kafka.
+- Kubernetes, Helm
+- Docker & CI/CD pipelines
 
----
-
-### 🗄 Database & Streaming
-- PostgreSQL / MySQL
-- MongoDB
-- Redis
-- Kafka
-- Elasticsearch (ELK Stack)
-
----
-
-### DevOps
-- Docker / Docker Compose
-- CI/CD
-- Apple Store & Google Play deployment
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangdh2001&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/hoangdh2001
-- 📧 Email: dohuyhoang.se.dev@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/hoangdh2001  
+- 📧 Email: dohuyhoang.se.dev@gmail.com  
 
----
-
-⭐ *If you like my work, consider starring my repositories!*
+⭐ *Thanks for visiting my profile!*
